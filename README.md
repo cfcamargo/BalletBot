@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=llF6vD-RljE
 - No video a Rafa nos ensina a criar esta landing page com HTML E CSS, 
 - Como já estou aprendendo o framework vue, utilizei o mesmo para criar a página para fins de aprendizado.
 
-** Me sigam no Insta 
+** Me sigam no Insta : https://www.instagram.com/sr.fcamargo/
 
 ###
 
