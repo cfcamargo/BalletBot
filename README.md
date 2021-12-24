@@ -1,5 +1,17 @@
 # ballebot
 
+### Criando a landing page da Ballebot com VUE
+
+- Seguindo video da Rafa ballerini no link
+https://www.youtube.com/watch?v=llF6vD-RljE
+
+- No video a Rafa nos ensina a criar esta landing page com HTML E CSS, 
+- Como já estou aprendendo o framework vue, utilizei o mesmo para criar a página para fins de aprendizado.
+
+** Me sigam no Insta 
+
+###
+
 ## Project setup
 ```
 npm install
