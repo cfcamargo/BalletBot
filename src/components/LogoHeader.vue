@@ -1,5 +1,5 @@
 <template>
-    <img src="@/assets/images/logo.png" alt="Logo">
+    <img src="@/assets/images/logo.png" alt="Logo" class="logo-menu">
 </template>
 
 <style scoped>
